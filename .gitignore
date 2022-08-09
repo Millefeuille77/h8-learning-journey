@@ -1,5 +1,11 @@
-password.txt 
+password.txt  
 *.png
 folder/
+venv/
+.ipynb_checkpoints
 
-//untuk ignore satu file pakai tipe file
+
+
+#untuk ignore file tertentu tulis nama dan extension cth: password.txt
+#ignore file berextension sama pakai *.png & password.*
+#untuk ignore folder tulis folder/ cth: venv/
