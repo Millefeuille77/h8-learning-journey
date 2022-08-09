@@ -1,0 +1,5 @@
+password.txt 
+*.png
+folder/
+
+//untuk ignore satu file pakai tipe file
